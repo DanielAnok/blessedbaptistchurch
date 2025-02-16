@@ -139,14 +139,6 @@ h1, h2, h3, h4, h5, h6, figure {
     display: none;
   }
 }
-.video-container {
-            display: flex;
-            flex-wrap: nowrap;
-            justify-content: space-between;
-        }
-        .video-container iframe {
-            flex: 1;
-            margin: 10px;
         
 .fh5co-nav ul {
   padding: 20px 0;
